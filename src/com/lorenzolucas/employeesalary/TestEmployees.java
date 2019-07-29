@@ -5,7 +5,8 @@ import java.io.FileReader;
 import java.util.Scanner;
 
 /**
- * Purpose: This package demonstrates the use of subclasses in java
+ * Purpose: This package demonstrates the use of subclasses in java by reading the employee.txt file and calculating the
+ * employee salaries based on their positions.
  *
  * @author Lorenzo Lucas
  * @version 1.0
