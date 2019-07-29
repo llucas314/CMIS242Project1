@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.lorenzolucas.employeesalary","l":"Employee"},{"p":"com.lorenzolucas.employeesalary","l":"Executive"},{"p":"com.lorenzolucas.employeesalary","l":"Salesman"},{"p":"com.lorenzolucas.employeesalary","l":"TestEmployees"}]

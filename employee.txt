@@ -1,0 +1,30 @@
+2014 Executive Acker,John 5342 49
+2014 Executive Cotton,Bill 6330 12
+2014 Executive Carry,Allen 5432 53
+2014 Executive Graves,Harriett 4334 39
+2014 Executive Roberts,Ted 7500 10
+2015 Executive Scott,Sally 6365 38
+2015 Executive Pait,Patty 5244 49
+2015 Executive Wolfrum,DJ 5536 120
+2015 Executive George,Regina 6440 103
+2015 Executive Roth,Jeff 5540 95
+2014 Employee Backer,John 3050
+2014 Employee Colton,Bill 2321
+2014 Employee Garry,Allen 2535
+2014 Employee Braves,Harriett 4394
+2014 Employee Roberto,Ted 1900
+2015 Employee Scotland,Sally 3388
+2015 Employee Pant,Patty 2950
+2015 Employee Drum,DJ 3536
+2015 Employee Geoff,Regina 2644
+2015 Employee Parker,Jeff 2554
+2014 Salesman Baldwin,John 2050 10000
+2014 Salesman Wright,Bill 4321 5402
+2014 Salesman Mather,Allen 6535 2004
+2014 Salesman Vokes,Harriett 3394 45003
+2014 Salesman Betan,Ted 1630 30244
+2015 Salesman Lake,Sally 2388 11033
+2015 Salesman Path,Patty 2950 4320
+2015 Salesman Drumman,DJ 4536 40201
+2015 Salesman Graff,Regina 3644 9920
+2015 Salesman Rodman,Jeff 1554 93242
